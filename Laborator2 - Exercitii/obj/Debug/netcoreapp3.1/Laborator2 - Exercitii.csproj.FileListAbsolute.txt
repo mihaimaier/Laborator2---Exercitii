@@ -1,0 +1,14 @@
+C:\Users\Iugkn\Desktop\C#.Net Course\Lab#2\Laborator2 - Exercitii\Laborator2 - Exercitii\bin\Debug\netcoreapp3.1\Laborator2 - Exercitii.exe
+C:\Users\Iugkn\Desktop\C#.Net Course\Lab#2\Laborator2 - Exercitii\Laborator2 - Exercitii\bin\Debug\netcoreapp3.1\Laborator2 - Exercitii.deps.json
+C:\Users\Iugkn\Desktop\C#.Net Course\Lab#2\Laborator2 - Exercitii\Laborator2 - Exercitii\bin\Debug\netcoreapp3.1\Laborator2 - Exercitii.runtimeconfig.json
+C:\Users\Iugkn\Desktop\C#.Net Course\Lab#2\Laborator2 - Exercitii\Laborator2 - Exercitii\bin\Debug\netcoreapp3.1\Laborator2 - Exercitii.runtimeconfig.dev.json
+C:\Users\Iugkn\Desktop\C#.Net Course\Lab#2\Laborator2 - Exercitii\Laborator2 - Exercitii\bin\Debug\netcoreapp3.1\Laborator2 - Exercitii.dll
+C:\Users\Iugkn\Desktop\C#.Net Course\Lab#2\Laborator2 - Exercitii\Laborator2 - Exercitii\bin\Debug\netcoreapp3.1\Laborator2 - Exercitii.pdb
+C:\Users\Iugkn\Desktop\C#.Net Course\Lab#2\Laborator2 - Exercitii\Laborator2 - Exercitii\obj\Debug\netcoreapp3.1\Laborator2 - Exercitii.csproj.AssemblyReference.cache
+C:\Users\Iugkn\Desktop\C#.Net Course\Lab#2\Laborator2 - Exercitii\Laborator2 - Exercitii\obj\Debug\netcoreapp3.1\Laborator2 - Exercitii.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Iugkn\Desktop\C#.Net Course\Lab#2\Laborator2 - Exercitii\Laborator2 - Exercitii\obj\Debug\netcoreapp3.1\Laborator2 - Exercitii.AssemblyInfoInputs.cache
+C:\Users\Iugkn\Desktop\C#.Net Course\Lab#2\Laborator2 - Exercitii\Laborator2 - Exercitii\obj\Debug\netcoreapp3.1\Laborator2 - Exercitii.AssemblyInfo.cs
+C:\Users\Iugkn\Desktop\C#.Net Course\Lab#2\Laborator2 - Exercitii\Laborator2 - Exercitii\obj\Debug\netcoreapp3.1\Laborator2 - Exercitii.csproj.CoreCompileInputs.cache
+C:\Users\Iugkn\Desktop\C#.Net Course\Lab#2\Laborator2 - Exercitii\Laborator2 - Exercitii\obj\Debug\netcoreapp3.1\Laborator2 - Exercitii.dll
+C:\Users\Iugkn\Desktop\C#.Net Course\Lab#2\Laborator2 - Exercitii\Laborator2 - Exercitii\obj\Debug\netcoreapp3.1\Laborator2 - Exercitii.pdb
+C:\Users\Iugkn\Desktop\C#.Net Course\Lab#2\Laborator2 - Exercitii\Laborator2 - Exercitii\obj\Debug\netcoreapp3.1\Laborator2 - Exercitii.genruntimeconfig.cache
